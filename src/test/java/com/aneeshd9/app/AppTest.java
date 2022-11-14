@@ -50,4 +50,28 @@ public class AppTest
         assertTrue(dc.checkSubarraySum(new int[]{23, 2, 6, 4, 7}, 6));
         assertTrue(!dc.checkSubarraySum(new int[]{23, 2, 6, 4, 7}, 13));
     }
+
+    @Test
+    public void testLeetCodeHouseRobber() {
+        DynamicProgramming dp = new DynamicProgramming();
+        assertTrue(dp.rob(new int[]{1, 2, 3, 1}) == 4);
+        assertTrue(dp.rob(new int[]{2, 7, 9, 3, 1}) == 12);
+    }
+
+    @Test
+    public void testLeetCodeHouseRobber2() {
+        DynamicProgramming dp = new DynamicProgramming();
+        assertTrue(dp.rob2(new int[]{2, 3, 2}) == 3);
+        assertTrue(dp.rob2(new int[]{1, 2, 3, 1}) == 4);
+        assertTrue(dp.rob2(new int[]{1, 2, 3}) == 3);
+    }
+
+    @Test
+    public void testLeetCodeDeleteAndEarn() {
+        DynamicProgramming dp = new DynamicProgramming();
+        assertTrue(dp.deleteAndEarn(new int[]{3, 4, 2}) == 6);
+        assertTrue(dp.deleteAndEarn(new int[]{2, 2, 3, 3, 3, 4}) == 9);
+        assertTrue(dp.deleteAndEarn(new int[]{1, 3}) == 4);
+        assertTrue(dp.deleteAndEarn(new int[]{1, 2, 3, 15, 16, 17, 18}) == 38);
+    }
 }
