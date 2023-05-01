@@ -2,7 +2,16 @@
 	"folders":
 	[
 		{
-			"path": "."
+			"path": ".",
 		}
-	]
+	],
+	"debugger_configurations":
+	[
+		{
+			"type": "java",
+			"name": "Launch Java Program",
+			"request": "launch",
+			"mainClass": "RomanToInteger"
+		},
+	],
 }
