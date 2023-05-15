@@ -3,18 +3,151 @@
 	{
 		"selected_items":
 		[
+			[
+				"includ",
+				"include"
+			],
+			[
+				"nu",
+				"nums : int[]"
+			],
+			[
+				"new",
+				"newPrefix : String"
+			],
+			[
+				"cha",
+				"charAt(int index) : char"
+			],
+			[
+				"ch",
+				"charAt(int index) : char"
+			],
+			[
+				"char",
+				"charAt(int index) : char"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"po",
+				"pop() : Character"
+			],
+			[
+				"sta",
+				"stack : Stack<java.lang.Character>"
+			],
+			[
+				"s",
+				"s : String"
+			],
+			[
+				"LinkedL",
+				"LinkedList - java.util"
+			],
+			[
+				"get",
+				"get(Object key) : Integer"
+			],
+			[
+				"va",
+				"values : Map<java.lang.Character,java.lang.Integer>"
+			],
+			[
+				"ge",
+				"get(Object key) : Integer"
+			],
+			[
+				"val",
+				"values : Map<java.lang.Character,java.lang.Integer>"
+			],
+			[
+				"ne",
+				"nextChar : char"
+			],
+			[
+				"Has",
+				"HashMap()"
+			],
+			[
+				"in",
+				"intervals"
+			],
+			[
+				"int",
+				"intervals"
+			],
+			[
+				"num",
+				"nums"
+			],
+			[
+				"se",
+				"set"
+			],
+			[
+				"set",
+				"Set"
+			],
+			[
+				"ma",
+				"maxDepth"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"retur",
+				"return nullptr"
+			],
+			[
+				"righ",
+				"rightHeight"
+			],
+			[
+				"left",
+				"leftHeight"
+			],
+			[
+				"le",
+				"leftHeight"
+			],
+			[
+				"max",
+				"maxLen"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"push",
+				"push_stack"
+			],
+			[
+				"pop",
+				"pop_stack"
+			],
+			[
+				"pus",
+				"push_stack"
+			],
+			[
+				"op",
+				"top"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": "#include <stack>\n\nclass MyQueue {\npublic:\n\tMyQueue() {\n\t\tsize = 0;\n\t}\n\n\tvoid push(int x) {\n\t\tthis->pus\n\t}\n\n\tint pop() {\n\n\t}\n\n\tint peek() {\n\n\t}\n\n\tbool empty() {\n\t\treturn this->size == 0;\n\t}\n\nprivate:\n\tint size;\n\tstd::stack<int> push_stack;\n\tstd::stack<int> pop_stack;\n};",
-			"file": "grind75/queue_using_stacks.cpp",
-			"file_size": 258,
-			"file_write_time": 133273463435513956,
+			"file": "grind75/palindrome_linked_list.cpp",
 			"settings":
 			{
-				"buffer_size": 269,
+				"buffer_size": 987,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -25,105 +158,43 @@
 					1,
 					"insert",
 					{
-						"characters": "#include"
+						"characters": "#includ"
 					},
-					"CAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"BwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
 					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					2,
-					1,
-					"insert",
-					{
-						"characters": " <"
-					},
-					"AgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
 					3,
-					11,
-					"left_delete",
-					null,
-					"CgAAAAkAAAAAAAAACQAAAAAAAAABAAAAPAgAAAAAAAAACAAAAAAAAAABAAAAIAcAAAAAAAAABwAAAAAAAAABAAAAZQYAAAAAAAAABgAAAAAAAAABAAAAZAUAAAAAAAAABQAAAAAAAAABAAAAdQQAAAAAAAAABAAAAAAAAAABAAAAbAMAAAAAAAAAAwAAAAAAAAABAAAAYwIAAAAAAAAAAgAAAAAAAAABAAAAbgEAAAAAAAAAAQAAAAAAAAABAAAAaQAAAAAAAAAAAAAAAAAAAAABAAAAIw",
-					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":4,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							0,
+							1,
+							2
+						],
+						"trigger": "include"
+					},
+					"BwAAAAYAAAAAAAAABgAAAAAAAAABAAAAZAUAAAAAAAAABQAAAAAAAAABAAAAdQQAAAAAAAAABAAAAAAAAAABAAAAbAMAAAAAAAAAAwAAAAAAAAABAAAAYwIAAAAAAAAAAgAAAAAAAAABAAAAbgEAAAAAAAAAAQAAAAAAAAABAAAAaQEAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwAAAAAAAAAHAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					4,
 					1,
 					"insert",
 					{
-						"characters": "#inc"
+						"characters": "Lis"
 					},
-					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AwAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					5,
-					1,
-					"insert_completion",
-					{
-						"completion": "include <${1:.h}>",
-						"format": "snippet",
-						"keep_prefix": false,
-						"must_insert": false,
-						"trigger": "inc"
-					},
-					"AgAAAAEAAAAAAAAAAQAAAAAAAAADAAAAaW5jAQAAAAAAAAANAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					6,
-					1,
-					"insert",
-					{
-						"characters": "sta"
-					},
-					"BAAAAAoAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALAAAAAAAAAAIAAAAuaAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAACgAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					7,
-					1,
-					"insert_completion",
-					{
-						"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
-						"format": "command",
-						"keep_prefix": true,
-						"must_insert": false,
-						"query_change_id":
-						[
-							5,
-							6,
-							3
-						],
-						"trigger": "stack>"
-					},
-					"AwAAAAwAAAAAAAAADAAAAAAAAAABAAAAYQoAAAAAAAAACgAAAAAAAAADAAAAc3Q+CgAAAAAAAAAQAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					1,
-					"insert",
-					{
-						"characters": "\n\nc"
-					},
-					"AwAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": "la"
-					},
-					"AgAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
 					1,
 					"insert_completion",
 					{
@@ -133,77 +204,67 @@
 						"must_insert": false,
 						"query_change_id":
 						[
-							8,
-							9,
-							1
+							2,
+							4,
+							3
 						],
-						"trigger": "class"
+						"trigger": "ListNode.hpp\""
 					},
-					"AwAAABQAAAAAAAAAFAAAAAAAAAABAAAAYRIAAAAAAAAAEgAAAAAAAAACAAAAY2wSAAAAAAAAABcAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAFQAAAAAAAAAVAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAoAAAAAAAAACgAAAAAAAAAEAAAATGlzIgoAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					11,
+					6,
 					1,
 					"insert",
 					{
-						"characters": " M"
+						"characters": "\n\nclass"
 					},
-					"AgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"BwAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAA",
 					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					12,
+					7,
 					1,
 					"insert",
 					{
-						"characters": "yQueu"
+						"characters": " Solution"
 					},
-					"BQAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					13,
-					1,
-					"insert",
-					{
-						"characters": "e"
-					},
-					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"CQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAAA",
 					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					14,
+					8,
 					1,
 					"insert",
 					{
 						"characters": " "
 					},
-					"AQAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAAPC/"
+					"AQAAACcAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					15,
+					9,
 					1,
 					"insert_snippet",
 					{
 						"contents": "{$0}"
 					},
-					"AQAAACAAAAAAAAAAIgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAPC/"
+					"AQAAACgAAAAAAAAAKgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					16,
+					10,
 					1,
 					"run_macro_file",
 					{
 						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
 					},
-					"AwAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+					"AwAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAAqAAAAAAAAACwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					21,
+					15,
 					1,
 					"sequence",
 					{
@@ -228,119 +289,21 @@
 							]
 						]
 					},
-					"AgAAACUAAAAAAAAAJgAAAAAAAAAAAAAAIgAAAAAAAAAiAAAAAAAAAAEAAAAJ",
-					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAA"
+					"AgAAAC4AAAAAAAAALwAAAAAAAAAAAAAAKgAAAAAAAAAqAAAAAAAAAAIAAAAgIA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAACZA"
 				],
 				[
-					26,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"AQAAACQAAAAAAAAAJAAAAAAAAAABAAAAOw",
-					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAACZA"
-				],
-				[
-					43,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": ";"
-								}
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					46,
-					1,
-					"reindent",
-					null,
-					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					47,
-					1,
-					"left_delete",
-					null,
-					"AQAAACIAAAAAAAAAIgAAAAAAAAABAAAACQ",
-					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					48,
+					18,
 					1,
 					"insert",
 					{
-						"characters": "p"
+						"characters": "pub"
 					},
-					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
+					"AwAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					49,
-					1,
-					"left_delete",
-					null,
-					"AQAAACIAAAAAAAAAIgAAAAAAAAABAAAAcA",
-					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					50,
-					1,
-					"reindent",
-					null,
-					"AQAAACIAAAAAAAAAIwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIgAAAAAAAAAiAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					51,
-					1,
-					"insert",
-					{
-						"characters": "publ"
-					},
-					"BAAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					52,
+					19,
 					1,
 					"insert_completion",
 					{
@@ -350,383 +313,435 @@
 						"must_insert": false,
 						"query_change_id":
 						[
-							36,
-							51,
+							13,
+							18,
 							1
 						],
 						"trigger": "public"
 					},
-					"BwAAACYAAAAAAAAAJgAAAAAAAAABAAAAbCUAAAAAAAAAJQAAAAAAAAABAAAAYiQAAAAAAAAAJAAAAAAAAAABAAAAdSMAAAAAAAAAIwAAAAAAAAABAAAAcCMAAAAAAAAAKgAAAAAAAAAAAAAAIgAAAAAAAAAiAAAAAAAAAAEAAAAJIgAAAAAAAAAiAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+					"BAAAACwAAAAAAAAALAAAAAAAAAABAAAAYisAAAAAAAAAKwAAAAAAAAABAAAAdSoAAAAAAAAAKgAAAAAAAAABAAAAcCoAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "\nbool"
+					},
+					"BgAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " isPalindr"
+					},
+					"CgAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "ome"
+					},
+					"AwAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQgAAAAAAAABCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAEUAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "Lis"
+					},
+					"AwAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							19,
+							24,
+							1
+						],
+						"trigger": "ListNode"
+					},
+					"BAAAAEgAAAAAAAAASAAAAAAAAAABAAAAc0cAAAAAAAAARwAAAAAAAAABAAAAaUYAAAAAAAAARgAAAAAAAAABAAAATEYAAAAAAAAATgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " *head"
+					},
+					"BgAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFUAAAAAAAAAVgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAFYAAAAAAAAAWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXQAAAAAAAAAAAAAAWAAAAAAAAABYAAAAAAAAAAIAAAAgIFgAAAAAAAAAXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "\n\npriv"
+					},
+					"CgAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABjAAAAAAAAAAAAAABYAAAAAAAAAFgAAAAAAAAABAAAACAgICBfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYgAAAAAAAAAAAAAAXQAAAAAAAABdAAAAAAAAAAIAAAAgIGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							29,
+							34,
+							7
+						],
+						"trigger": "private"
+					},
+					"BwAAAGMAAAAAAAAAYwAAAAAAAAABAAAAdmIAAAAAAAAAYgAAAAAAAAABAAAAaWEAAAAAAAAAYQAAAAAAAAABAAAAcmAAAAAAAAAAYAAAAAAAAAABAAAAcGAAAAAAAAAAaAAAAAAAAAAAAAAAXgAAAAAAAABeAAAAAAAAAAIAAAAgIF4AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "Lis"
+					},
+					"AwAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAABrAAAAAAAAAGwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							32,
+							37,
+							1
+						],
+						"trigger": "ListNode"
+					},
+					"BAAAAGsAAAAAAAAAawAAAAAAAAABAAAAc2oAAAAAAAAAagAAAAAAAAABAAAAaWkAAAAAAAAAaQAAAAAAAAABAAAATGkAAAAAAAAAcQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " *mi"
+					},
+					"BAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAABzAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "ddleNode"
+					},
+					"CAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAH0AAAAAAAAAfwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "Lis"
+					},
+					"AwAAAH4AAAAAAAAAfwAAAAAAAAAAAAAAfwAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							37,
+							42,
+							1
+						],
+						"trigger": "ListNode"
+					},
+					"BAAAAIAAAAAAAAAAgAAAAAAAAAABAAAAc38AAAAAAAAAfwAAAAAAAAABAAAAaX4AAAAAAAAAfgAAAAAAAAABAAAATH4AAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgQAAAAAAAACBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": " *head"
+					},
+					"BgAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAI0AAAAAAAAAjgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAI4AAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlQAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAIAAAAgIJAAAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJYAAAAAAAAAlwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAJcAAAAAAAAAmQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "head"
+					},
+					"BAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					53,
 					1,
 					"insert",
 					{
-						"characters": "\nM"
+						"characters": " =="
 					},
-					"AwAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAKQAAAAAAAAApAAAAAAAAAAAAAAAAAPC/"
+					"AwAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAACeAAAAAAAAAJ8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					54,
 					1,
 					"insert",
 					{
-						"characters": "y"
+						"characters": " null"
 					},
-					"AQAAACwAAAAAAAAALQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAALAAAAAAAAAAsAAAAAAAAAAAAAAAAAPC/"
+					"BQAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					55,
 					1,
 					"insert_completion",
 					{
-						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"completion": "lsp_select_completion {\"index\":33,\"session_name\":\"clangd\"}",
 						"format": "command",
 						"keep_prefix": true,
 						"must_insert": false,
 						"query_change_id":
 						[
-							38,
-							53,
-							3
+							49,
+							54,
+							1
 						],
-						"trigger": "MyQueue"
+						"trigger": "nullptr"
 					},
-					"AwAAACwAAAAAAAAALAAAAAAAAAABAAAAeSsAAAAAAAAAKwAAAAAAAAABAAAATSsAAAAAAAAAMgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/"
+					"BQAAAKMAAAAAAAAAowAAAAAAAAABAAAAbKIAAAAAAAAAogAAAAAAAAABAAAAbKEAAAAAAAAAoQAAAAAAAAABAAAAdaAAAAAAAAAAoAAAAAAAAAABAAAAbqAAAAAAAAAApwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					56,
+					57,
 					1,
-					"insert_snippet",
+					"insert",
 					{
-						"contents": "($0)"
+						"characters": " ret"
 					},
-					"AQAAADIAAAAAAAAANAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/"
+					"BAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAAAAAAAAACoAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					58,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":2,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							52,
+							57,
+							2
+						],
+						"trigger": "return"
+					},
+					"BAAAAKsAAAAAAAAAqwAAAAAAAAABAAAAdKoAAAAAAAAAqgAAAAAAAAABAAAAZakAAAAAAAAAqQAAAAAAAAABAAAAcqkAAAAAAAAAsQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
 					1,
 					"insert",
 					{
 						"characters": " "
 					},
-					"AQAAADQAAAAAAAAANQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANAAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					59,
-					1,
-					"insert_snippet",
-					{
-						"contents": "{$0}"
-					},
-					"AQAAADUAAAAAAAAANwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAAPC/"
+					"AQAAALAAAAAAAAAAsQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					60,
 					1,
-					"run_macro_file",
-					{
-						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
-					},
-					"BgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAANwAAAAAAAAA3AAAAAAAAAAEAAAAJNwAAAAAAAAA5AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANgAAAAAAAAA2AAAAAAAAAAAAAAAAAPC/"
+					"left_delete",
+					null,
+					"AQAAALAAAAAAAAAAsAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAsQAAAAAAAACxAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					73,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "\n\nvoid"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " push"
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "($0)"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "int"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " x"
-								}
-							],
-							[
-								"move",
-								{
-									"by": "characters",
-									"forward": true
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " "
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "{$0}"
-								}
-							],
-							[
-								"run_macro_file",
-								{
-									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
-								}
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"HQAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA3AAAAAAAAADcAAAAAAAAAAgAAAAkJPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAADsAAAAAAAAAOwAAAAAAAAABAAAACT0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAABCAAAAAAAAAEMAAAAAAAAAAAAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAASAAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAASgAAAAAAAABLAAAAAAAAAAAAAABLAAAAAAAAAEwAAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABQAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFAAAAAAAAAAUAAAAAAAAAABAAAACVAAAAAAAAAAUgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAEZA"
-				],
-				[
-					83,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "\n\nint"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " pop"
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "($0)"
-								}
-							],
-							[
-								"move",
-								{
-									"by": "characters",
-									"forward": true
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " "
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "{$0}"
-								}
-							],
-							[
-								"run_macro_file",
-								{
-									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
-								}
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"FgAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAgAAAAkJVQAAAAAAAABWAAAAAAAAAAAAAABWAAAAAAAAAFcAAAAAAAAAAAAAAFQAAAAAAAAAVAAAAAAAAAABAAAACVYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYgAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABiAAAAAAAAAGIAAAAAAAAAAQAAAAliAAAAAAAAAGQAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAAEZA"
-				],
-				[
-					93,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "\n\nint"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " peek"
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "($0)"
-								}
-							],
-							[
-								"move",
-								{
-									"by": "characters",
-									"forward": true
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " "
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "{$0}"
-								}
-							],
-							[
-								"run_macro_file",
-								{
-									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
-								}
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"FwAAAGcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABiAAAAAAAAAGIAAAAAAAAAAgAAAAkJZwAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGkAAAAAAAAAAAAAAGYAAAAAAAAAZgAAAAAAAAABAAAACWgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB1AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHUAAAAAAAAAdQAAAAAAAAABAAAACXUAAAAAAAAAdwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAEZA"
-				],
-				[
-					105,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "\n\nbool"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " empty"
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "($0)"
-								}
-							],
-							[
-								"move",
-								{
-									"by": "characters",
-									"forward": true
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " "
-								}
-							],
-							[
-								"insert_snippet",
-								{
-									"contents": "{$0}"
-								}
-							],
-							[
-								"run_macro_file",
-								{
-									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
-								}
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"GQAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB1AAAAAAAAAHUAAAAAAAAAAgAAAAkJegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHkAAAAAAAAAeQAAAAAAAAABAAAACXsAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAB9AAAAAAAAAH4AAAAAAAAAAAAAAH4AAAAAAAAAfwAAAAAAAAAAAAAAfwAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIEAAAAAAAAAAAAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAhQAAAAAAAAAAAAAAhQAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAigAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAIsAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACNAAAAAAAAAAAAAACKAAAAAAAAAIoAAAAAAAAAAQAAAAmKAAAAAAAAAIwAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAeQAAAAAAAAB5AAAAAAAAAAAAAAAAAEZA"
-				],
-				[
-					114,
+					61,
 					1,
 					"insert",
 					{
-						"characters": "\n\npri"
+						"characters": "null"
 					},
-					"CQAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACKAAAAAAAAAIoAAAAAAAAAAgAAAAkJjwAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJEAAAAAAAAAAAAAAI4AAAAAAAAAjgAAAAAAAAABAAAACZAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAjwAAAAAAAACPAAAAAAAAAAAAAAAAAPC/"
+					"BAAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACyAAAAAAAAAAAAAACyAAAAAAAAALMAAAAAAAAAAAAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					115,
+					62,
 					1,
 					"insert_completion",
 					{
@@ -736,27 +751,37 @@
 						"must_insert": false,
 						"query_change_id":
 						[
-							63,
-							114,
-							7
+							56,
+							61,
+							1
 						],
-						"trigger": "private"
+						"trigger": "nullptr"
 					},
-					"BgAAAJIAAAAAAAAAkgAAAAAAAAABAAAAaZEAAAAAAAAAkQAAAAAAAAABAAAAcpAAAAAAAAAAkAAAAAAAAAABAAAAcJAAAAAAAAAAmAAAAAAAAAAAAAAAjwAAAAAAAACPAAAAAAAAAAEAAAAJjwAAAAAAAACPAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAkwAAAAAAAACTAAAAAAAAAAAAAAAAAPC/"
+					"BQAAALMAAAAAAAAAswAAAAAAAAABAAAAbLIAAAAAAAAAsgAAAAAAAAABAAAAbLEAAAAAAAAAsQAAAAAAAAABAAAAdbAAAAAAAAAAsAAAAAAAAAABAAAAbrAAAAAAAAAAtwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					116,
+					63,
 					1,
-					"insert",
+					"insert_completion",
 					{
-						"characters": "\n"
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							57,
+							62,
+							5
+						],
+						"trigger": "nullptr"
 					},
-					"AgAAAJcAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACZAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlwAAAAAAAACXAAAAAAAAAAAAAAAAAPC/"
+					"AgAAALAAAAAAAAAAsAAAAAAAAAAHAAAAbnVsbHB0crAAAAAAAAAAtwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					125,
+					88,
 					1,
 					"sequence",
 					{
@@ -772,8 +797,16 @@
 							[
 								"insert",
 								{
-									"characters": "\t"
+									"characters": "\nLis"
 								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
 							],
 							[
 								"left_delete",
@@ -782,40 +815,102 @@
 							[
 								"insert",
 								{
-									"characters": "int"
+									"characters": "if"
 								}
 							],
 							[
 								"insert",
 								{
-									"characters": " size;"
+									"characters": " "
 								}
 							],
 							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"CwAAAJkAAAAAAAAAmgAAAAAAAAAAAAAAmQAAAAAAAACZAAAAAAAAAAEAAAAJmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAACdAAAAAAAAAJ4AAAAAAAAAAAAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAAAA"
-				],
-				[
-					134,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"reindent",
+								"left_delete",
 								null
 							],
 							[
-								"insert",
-								{
-									"characters": "\t"
-								}
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
 							],
 							[
 								"left_delete",
@@ -824,7 +919,65 @@
 							[
 								"insert",
 								{
-									"characters": "size"
+									"characters": " ||"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										68,
+										73,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " -"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										72,
+										77,
+										2
+									],
+									"trigger": "next"
 								}
 							],
 							[
@@ -836,7 +989,57 @@
 							[
 								"insert",
 								{
-									"characters": " 0;"
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " nu"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":4,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										78,
+										83,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ")"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " return"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " head;"
 								}
 							],
 							[
@@ -845,8 +1048,8 @@
 							]
 						]
 					},
-					"DAAAADcAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA5AAAAAAAAADkAAAAAAAAAAQAAAAk5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABCAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+					"TwAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAAC/AAAAAAAAAL8AAAAAAAAAAQAAAHO+AAAAAAAAAL4AAAAAAAAAAQAAAGm9AAAAAAAAAL0AAAAAAAAAAQAAAEy9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAAC/AAAAAAAAAL8AAAAAAAAAAQAAACC+AAAAAAAAAL4AAAAAAAAAAQAAAGa9AAAAAAAAAL0AAAAAAAAAAQAAAGm7AAAAAAAAALsAAAAAAAAAAgAAACAguQAAAAAAAAC5AAAAAAAAAAIAAAAgILgAAAAAAAAAuAAAAAAAAAABAAAACrcAAAAAAAAAtwAAAAAAAAABAAAAO7YAAAAAAAAAtgAAAAAAAAABAAAAcrUAAAAAAAAAtQAAAAAAAAABAAAAdLQAAAAAAAAAtAAAAAAAAAABAAAAcLMAAAAAAAAAswAAAAAAAAABAAAAbLIAAAAAAAAAsgAAAAAAAAABAAAAbLEAAAAAAAAAsQAAAAAAAAABAAAAdbAAAAAAAAAAsAAAAAAAAAABAAAAbq8AAAAAAAAArwAAAAAAAAABAAAAIK4AAAAAAAAArgAAAAAAAAABAAAAbq0AAAAAAAAArQAAAAAAAAABAAAAcqwAAAAAAAAArAAAAAAAAAABAAAAdasAAAAAAAAAqwAAAAAAAAABAAAAdKoAAAAAAAAAqgAAAAAAAAABAAAAZakAAAAAAAAAqQAAAAAAAAABAAAAcqgAAAAAAAAAqAAAAAAAAAABAAAAIKcAAAAAAAAApwAAAAAAAAABAAAAKacAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAAqwAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAAK0AAAAAAAAAAAAAAKwAAAAAAAAArAAAAAAAAAABAAAAZasAAAAAAAAAqwAAAAAAAAABAAAAaKsAAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALEAAAAAAAAAAAAAALAAAAAAAAAAsAAAAAAAAAABAAAALa8AAAAAAAAArwAAAAAAAAABAAAAIK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAACxAAAAAAAAALIAAAAAAAAAAAAAALIAAAAAAAAAswAAAAAAAAAAAAAAsgAAAAAAAACyAAAAAAAAAAEAAABlsQAAAAAAAACxAAAAAAAAAAEAAABusQAAAAAAAAC1AAAAAAAAAAAAAAC1AAAAAAAAALYAAAAAAAAAAAAAALYAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC4AAAAAAAAAAAAAAC3AAAAAAAAALcAAAAAAAAAAQAAACC3AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC6AAAAAAAAAAAAAAC6AAAAAAAAALsAAAAAAAAAAAAAALoAAAAAAAAAugAAAAAAAAABAAAAdbkAAAAAAAAAuQAAAAAAAAABAAAAbrkAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAADBAAAAAAAAAMIAAAAAAAAAAAAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMUAAAAAAAAAAAAAAMUAAAAAAAAAxgAAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyQAAAAAAAAAAAAAAyQAAAAAAAADKAAAAAAAAAAAAAADKAAAAAAAAAMsAAAAAAAAAAAAAAMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAADNAAAAAAAAAM4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					147,
@@ -856,57 +1059,843 @@
 						"commands":
 						[
 							[
-								"reindent",
-								null
-							],
-							[
-								"insert",
+								"move_to",
 								{
-									"characters": "\t"
-								}
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"insert",
-								{
-									"characters": "return"
+									"register": "\"",
+									"to": "hardeol"
 								}
 							],
 							[
 								"insert",
 								{
-									"characters": " siz"
+									"characters": "\n"
 								}
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"left_delete",
-								null
 							],
 							[
 								"insert",
 								{
-									"characters": "this.siz"
+									"characters": "Lis"
 								}
 							],
 							[
 								"insert_completion",
 								{
-									"completion": "size",
-									"format": "text",
-									"keep_prefix": false,
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
 									"must_insert": false,
-									"trigger": "size"
+									"query_change_id":
+									[
+										63,
+										91,
+										2
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *slow"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": true,
+									"query_change_id":
+									[
+										67,
+										95,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nLis"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										70,
+										98,
+										3
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *fast"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "  "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										76,
+										104,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "-n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": ">next;"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "wi"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "i"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "hile"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "fa"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										89,
+										117,
+										2
+									],
+									"trigger": "fast"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " !="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " null"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":35,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										92,
+										120,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " &&"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " fa"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										95,
+										123,
+										1
+									],
+									"trigger": "fast"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										97,
+										125,
+										2
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " !="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " nu"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":6,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										100,
+										128,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "slow"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " slow->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										108,
+										136,
+										8
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nfas"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										111,
+										139,
+										3
+									],
+									"trigger": "fast"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " fast->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										114,
+										142,
+										7
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										116,
+										144,
+										2
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"pgAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADTAAAAAAAAAAAAAADTAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA1QAAAAAAAAAAAAAA1QAAAAAAAADWAAAAAAAAAAAAAADVAAAAAAAAANUAAAAAAAAAAQAAAHPTAAAAAAAAANMAAAAAAAAAAgAAAExp0wAAAAAAAADbAAAAAAAAAAAAAADbAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADeAAAAAAAAAN8AAAAAAAAAAAAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADhAAAAAAAAAAAAAADhAAAAAAAAAOIAAAAAAAAAAAAAAOIAAAAAAAAA4wAAAAAAAAAAAAAA4wAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6QAAAAAAAAAAAAAA6QAAAAAAAADqAAAAAAAAAAAAAADqAAAAAAAAAO4AAAAAAAAAAAAAAO4AAAAAAAAA7wAAAAAAAAAAAAAA7wAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAAABAAAAc+8AAAAAAAAA7wAAAAAAAAABAAAAae4AAAAAAAAA7gAAAAAAAAABAAAATO4AAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAD3AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAPsAAAAAAAAAAAAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAD9AAAAAAAAAAAAAAD9AAAAAAAAAP4AAAAAAAAAAAAAAP0AAAAAAAAA/QAAAAAAAAABAAAAIP0AAAAAAAAA/gAAAAAAAAAAAAAA/gAAAAAAAAD/AAAAAAAAAAAAAAD/AAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAEAAABl/wAAAAAAAAD/AAAAAAAAAAEAAABo/wAAAAAAAAADAQAAAAAAAAAAAAADAQAAAAAAAAQBAAAAAAAAAAAAAAQBAAAAAAAABQEAAAAAAAAAAAAABAEAAAAAAAAEAQAAAAAAAAEAAABuBAEAAAAAAAAFAQAAAAAAAAAAAAAFAQAAAAAAAAYBAAAAAAAAAAAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAIAQAAAAAAAAkBAAAAAAAAAAAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAALAQAAAAAAAA8BAAAAAAAAAAAAAA8BAAAAAAAAEAEAAAAAAAAAAAAAEAEAAAAAAAARAQAAAAAAAAAAAAAQAQAAAAAAABABAAAAAAAAAQAAAGkQAQAAAAAAABEBAAAAAAAAAAAAABABAAAAAAAAEAEAAAAAAAABAAAAaRABAAAAAAAAEQEAAAAAAAAAAAAAEQEAAAAAAAASAQAAAAAAAAAAAAASAQAAAAAAABMBAAAAAAAAAAAAABMBAAAAAAAAFAEAAAAAAAAAAAAAFAEAAAAAAAAVAQAAAAAAAAAAAAAVAQAAAAAAABcBAAAAAAAAAAAAABYBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAYAQAAAAAAAAAAAAAWAQAAAAAAABYBAAAAAAAAAgAAAGZhFgEAAAAAAAAaAQAAAAAAAAAAAAAaAQAAAAAAABsBAAAAAAAAAAAAABsBAAAAAAAAHAEAAAAAAAAAAAAAHAEAAAAAAAAdAQAAAAAAAAAAAAAdAQAAAAAAAB4BAAAAAAAAAAAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAACEBAAAAAAAAIgEAAAAAAAAAAAAAIQEAAAAAAAAhAQAAAAAAAAEAAABsIAEAAAAAAAAgAQAAAAAAAAEAAABsHwEAAAAAAAAfAQAAAAAAAAEAAAB1HgEAAAAAAAAeAQAAAAAAAAEAAABuHgEAAAAAAAAlAQAAAAAAAAAAAAAlAQAAAAAAACYBAAAAAAAAAAAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAAoAQAAAAAAAAAAAAAoAQAAAAAAACkBAAAAAAAAAAAAACkBAAAAAAAAKgEAAAAAAAAAAAAAKgEAAAAAAAArAQAAAAAAAAAA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"
+				],
+				[
+					150,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAH8BAAAAAAAAgAEAAAAAAAAAAAAAgAEAAAAAAACEAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwEAAAAAAAB/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAIQBAAAAAAAAhQEAAAAAAAAAAAAAhQEAAAAAAACGAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIYBAAAAAAAAhwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgEAAAAAAACGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIcBAAAAAAAAiQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwEAAAAAAACHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					154,
+					1,
+					"insert",
+					{
+						"characters": "fa"
+					},
+					"AgAAAIgBAAAAAAAAiQEAAAAAAAAAAAAAiQEAAAAAAACKAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAEAAAAAAACIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							68,
+							154,
+							2
+						],
+						"trigger": "fast"
+					},
+					"AgAAAIgBAAAAAAAAiAEAAAAAAAACAAAAZmGIAQAAAAAAAIwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigEAAAAAAACKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					156,
+					1,
+					"insert",
+					{
+						"characters": " !="
+					},
+					"AwAAAIwBAAAAAAAAjQEAAAAAAAAAAAAAjQEAAAAAAACOAQAAAAAAAAAAAACOAQAAAAAAAI8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					157,
+					1,
+					"insert",
+					{
+						"characters": " null"
+					},
+					"BQAAAI8BAAAAAAAAkAEAAAAAAAAAAAAAkAEAAAAAAACRAQAAAAAAAAAAAACRAQAAAAAAAJIBAAAAAAAAAAAAAJIBAAAAAAAAkwEAAAAAAAAAAAAAkwEAAAAAAACUAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjwEAAAAAAACPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":36,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							71,
+							157,
+							1
+						],
+						"trigger": "nullptr"
+					},
+					"BQAAAJMBAAAAAAAAkwEAAAAAAAABAAAAbJIBAAAAAAAAkgEAAAAAAAABAAAAbJEBAAAAAAAAkQEAAAAAAAABAAAAdZABAAAAAAAAkAEAAAAAAAABAAAAbpABAAAAAAAAlwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					160,
+					1,
+					"insert",
+					{
+						"characters": " slow"
+					},
+					"BQAAAJgBAAAAAAAAmQEAAAAAAAAAAAAAmQEAAAAAAACaAQAAAAAAAAAAAACaAQAAAAAAAJsBAAAAAAAAAAAAAJsBAAAAAAAAnAEAAAAAAAAAAAAAnAEAAAAAAACdAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAEAAAAAAACYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAAJ0BAAAAAAAAngEAAAAAAAAAAAAAngEAAAAAAACfAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQEAAAAAAACdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"insert",
+					{
+						"characters": " slow->ne"
+					},
+					"CQAAAJ8BAAAAAAAAoAEAAAAAAAAAAAAAoAEAAAAAAAChAQAAAAAAAAAAAAChAQAAAAAAAKIBAAAAAAAAAAAAAKIBAAAAAAAAowEAAAAAAAAAAAAAowEAAAAAAACkAQAAAAAAAAAAAACkAQAAAAAAAKUBAAAAAAAAAAAAAKUBAAAAAAAApgEAAAAAAAAAAAAApgEAAAAAAACnAQAAAAAAAAAAAACnAQAAAAAAAKgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwEAAAAAAACfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					163,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							76,
+							162,
+							8
+						],
+						"trigger": "next"
+					},
+					"AwAAAKcBAAAAAAAApwEAAAAAAAABAAAAZaYBAAAAAAAApgEAAAAAAAABAAAAbqYBAAAAAAAAqgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					164,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAKoBAAAAAAAAqwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgEAAAAAAACqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					165,
+					1,
+					"insert",
+					{
+						"characters": "\nreturn"
+					},
+					"CAAAAKsBAAAAAAAArAEAAAAAAAAAAAAArAEAAAAAAACwAQAAAAAAAAAAAACwAQAAAAAAALEBAAAAAAAAAAAAALEBAAAAAAAAsgEAAAAAAAAAAAAAsgEAAAAAAACzAQAAAAAAAAAAAACzAQAAAAAAALQBAAAAAAAAAAAAALQBAAAAAAAAtQEAAAAAAAAAAAAAtQEAAAAAAAC2AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwEAAAAAAACrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					166,
+					1,
+					"insert",
+					{
+						"characters": " slow;"
+					},
+					"BgAAALYBAAAAAAAAtwEAAAAAAAAAAAAAtwEAAAAAAAC4AQAAAAAAAAAAAAC4AQAAAAAAALkBAAAAAAAAAAAAALkBAAAAAAAAugEAAAAAAAAAAAAAugEAAAAAAAC7AQAAAAAAAAAAAAC7AQAAAAAAALwBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgEAAAAAAAC2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\nLis"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										84,
+										170,
+										7
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *reverse"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Lis"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										88,
+										174,
+										1
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *head"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "if"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "e\\"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "he"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										102,
+										188,
+										1
+									],
+									"trigger": "head"
 								}
 							],
 							[
@@ -918,58 +1907,102 @@
 							[
 								"insert",
 								{
-									"characters": " 0;"
+									"characters": " null"
 								}
 							],
 							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"IAAAAJUAAAAAAAAAlwAAAAAAAAAAAAAAlwAAAAAAAACYAAAAAAAAAAAAAACXAAAAAAAAAJcAAAAAAAAAAQAAAAmXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAACdAAAAAAAAAJ4AAAAAAAAAAAAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKAAAAAAAAAAoAAAAAAAAAABAAAAep8AAAAAAAAAnwAAAAAAAAABAAAAaZ4AAAAAAAAAngAAAAAAAAABAAAAc54AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAACjAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAACjAAAAAAAAAKMAAAAAAAAAAwAAAHNpeqMAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAArQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					152,
-					1,
-					"vi_eval",
-					{
-						"action_args":
-						{
-						},
-						"action_command": "vi_right_delete",
-						"motion_args":
-						{
-						},
-						"motion_clip_to_line": false,
-						"motion_command": null,
-						"motion_inclusive": false,
-						"motion_mode": 0
-					},
-					"AQAAAKIAAAAAAAAAogAAAAAAAAABAAAALg",
-					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAoGRA"
-				],
-				[
-					155,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":34,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										105,
+										191,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
 							[
 								"insert",
 								{
-									"characters": "->:w"
+									"characters": " ||"
 								}
 							],
 							[
-								"left_delete",
-								null
+								"insert",
+								{
+									"characters": " he"
+								}
 							],
 							[
-								"left_delete",
-								null
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										108,
+										194,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										110,
+										196,
+										2
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " =="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " nul"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":5,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										113,
+										199,
+										1
+									],
+									"trigger": "nullptr"
+								}
 							],
 							[
 								"exit_insert_mode",
@@ -977,11 +2010,11 @@
 							]
 						]
 					},
-					"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"
+					"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"
 				],
 				[
-					168,
+					209,
 					1,
 					"sequence",
 					{
@@ -997,136 +2030,102 @@
 							[
 								"insert",
 								{
-									"characters": "\nsta"
-								}
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"insert",
-								{
-									"characters": "std::sta"
+									"characters": " reu"
 								}
 							],
 							[
 								"insert_completion",
 								{
-									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
-									"format": "command",
-									"keep_prefix": true,
-									"must_insert": false,
-									"query_change_id":
-									[
-										84,
-										162,
-										6
-									],
-									"trigger": "stack"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "int"
-								}
-							],
-							[
-								"insert_completion",
-								{
-									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
-									"format": "command",
-									"keep_prefix": true,
-									"must_insert": false,
-									"query_change_id":
-									[
-										86,
-										164,
-										4
-									],
-									"trigger": "int"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": ">"
-								}
-							],
-							[
-								"left_delete",
-								null
-							],
-							[
-								"exit_insert_mode",
-								null
-							]
-						]
-					},
-					"HAAAAMYAAAAAAAAAxwAAAAAAAAAAAAAAxwAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMkAAAAAAAAAAAAAAMkAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAADLAAAAAAAAAAAAAADKAAAAAAAAAMoAAAAAAAAAAQAAAGHJAAAAAAAAAMkAAAAAAAAAAQAAAHTIAAAAAAAAAMgAAAAAAAAAAQAAAHPIAAAAAAAAAMkAAAAAAAAAAAAAAMkAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAADLAAAAAAAAAAAAAADLAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAAzQAAAAAAAAAAAAAAzQAAAAAAAADOAAAAAAAAAAAAAADOAAAAAAAAAM8AAAAAAAAAAAAAAM8AAAAAAAAA0AAAAAAAAAAAAAAAzwAAAAAAAADPAAAAAAAAAAEAAABhzgAAAAAAAADOAAAAAAAAAAEAAAB0zQAAAAAAAADNAAAAAAAAAAEAAABzzQAAAAAAAADfAAAAAAAAAAAAAADTAAAAAAAAANQAAAAAAAAAAAAAANQAAAAAAAAA1AAAAAAAAAALAAAAdHlwZW5hbWUgVHDUAAAAAAAAANUAAAAAAAAAAAAAANUAAAAAAAAA1gAAAAAAAAAAAAAA0wAAAAAAAADTAAAAAAAAAAMAAABpbnTTAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA1gAAAAAAAADWAAAAAAAAAAEAAAA+",
-					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAGZA"
-				],
-				[
-					176,
-					1,
-					"sequence",
-					{
-						"commands":
-						[
-							[
-								"move_to",
-								{
-									"register": "\"",
-									"to": "hardeol"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": " push_stac"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "k;"
-								}
-							],
-							[
-								"insert",
-								{
-									"characters": "\nstd::sta"
-								}
-							],
-							[
-								"insert_completion",
-								{
-									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"completion": "lsp_select_completion {\"index\":3,\"session_name\":\"clangd\"}",
 									"format": "command",
 									"keep_prefix": true,
 									"must_insert": false,
 									"query_change_id":
 									[
 										85,
-										172,
-										8
+										203,
+										2
 									],
-									"trigger": "stack"
+									"trigger": "return"
 								}
 							],
 							[
 								"insert",
 								{
-									"characters": "int"
+									"characters": " hea"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										89,
+										207,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"FQAAABkCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAAbAgAAAAAAABwCAAAAAAAAAAAAABwCAAAAAAAAHQIAAAAAAAAAAAAAHAIAAAAAAAAcAgAAAAAAAAEAAAB1GwIAAAAAAAAbAgAAAAAAAAEAAABlGgIAAAAAAAAaAgAAAAAAAAEAAAByGgIAAAAAAAAiAgAAAAAAAAAAAAAhAgAAAAAAACICAAAAAAAAAAAAACICAAAAAAAAIwIAAAAAAAAAAAAAIwIAAAAAAAAkAgAAAAAAAAAAAAAkAgAAAAAAACUCAAAAAAAAAAAAACQCAAAAAAAAJAIAAAAAAAABAAAAYSMCAAAAAAAAIwIAAAAAAAABAAAAZSICAAAAAAAAIgIAAAAAAAABAAAAaCECAAAAAAAAIQIAAAAAAAABAAAAICECAAAAAAAAIgIAAAAAAAAAAAAAIgIAAAAAAAAjAgAAAAAAAAAAAAAiAgAAAAAAACICAAAAAAAAAQAAAGUhAgAAAAAAACECAAAAAAAAAQAAAGghAgAAAAAAACUCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwIAAAAAAAAXAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					275,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Lis"
 								}
 							],
 							[
@@ -1139,10 +2138,535 @@
 									"query_change_id":
 									[
 										87,
-										174,
-										4
+										212,
+										2
 									],
-									"trigger": "int"
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *prev"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " null"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":5,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										91,
+										216,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nListN"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										94,
+										219,
+										3
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *curr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nLis"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										100,
+										225,
+										3
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										104,
+										229,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										106,
+										231,
+										3
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nwhile"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "cur"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										112,
+										237,
+										2
+									],
+									"trigger": "curr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " !="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " null"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":37,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										115,
+										240,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										121,
+										246,
+										1
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " cu"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										124,
+										249,
+										1
+									],
+									"trigger": "curr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										126,
+										251,
+										2
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\ncurr->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										129,
+										254,
+										8
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " pre"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":3,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										132,
+										257,
+										1
+									],
+									"trigger": "prev"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "pre"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										136,
+										261,
+										1
+									],
+									"trigger": "prev"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "  "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " cur"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										141,
+										266,
+										1
+									],
+									"trigger": "curr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\ncu"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										144,
+										269,
+										3
+									],
+									"trigger": "curr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										147,
+										272,
+										1
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
 								}
 							],
 							[
@@ -1151,11 +2675,78 @@
 							]
 						]
 					},
-					"IAAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAADZAAAAAAAAANoAAAAAAAAAAAAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAADiAAAAAAAAAOMAAAAAAAAAAAAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADlAAAAAAAAAAAAAADlAAAAAAAAAOYAAAAAAAAAAAAAAOYAAAAAAAAA5wAAAAAAAAAAAAAA5wAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOkAAAAAAAAAAAAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA6gAAAAAAAADrAAAAAAAAAAAAAADrAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7AAAAAAAAADsAAAAAAAAAAEAAABh6wAAAAAAAADrAAAAAAAAAAEAAAB06gAAAAAAAADqAAAAAAAAAAEAAABz6gAAAAAAAAD8AAAAAAAAAAAAAADwAAAAAAAAAPEAAAAAAAAAAAAAAPEAAAAAAAAA8QAAAAAAAAALAAAAdHlwZW5hbWUgVHDxAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAAMAAABpbnTwAAAAAAAAAPMAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+					"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AAAAAFYCAAAAAAAAAAAAAFYCAAAAAAAAVwIAAAAAAAAAAAAAVwIAAAAAAABYAgAAAAAAAAAAAABYAgAAAAAAAFkCAAAAAAAAAAAAAFkCAAAAAAAAWgIAAAAAAAAAAAAAWgIAAAAAAABbAgAAAAAAAAAAAABbAgAAAAAAAFwCAAAAAAAAAAAAAFwCAAAAAAAAXQIAAAAAAAAAAAAAXQIAAAAAAABeAgAAAAAAAAAAAABeAgAAAAAAAF8CAAAAAAAAAAAAAF8CAAAAAAAAYAIAAAAAAAAAAAAAYAIAAAAAAABkAgAAAAAAAAAAAABkAgAAAAAAAGUCAAAAAAAAAAAAAGUCAAAAAAAAZgIAAAAAAAAAAAAAZgIAAAAAAABnAgAAAAAAAAAAAABmAgAAAAAAAGYCAAAAAAAAAQAAAHNlAgAAAAAAAGUCAAAAAAAAAQAAAGlkAgAAAAAAAGQCAAAAAAAAAQAAAExkAgAAAAAAAGwCAAAAAAAAAAAAAGwCAAAAAAAAbQIAAAAAAAAAAAAAbQIAAAAAAABuAgAAAAAAAAAAAABuAgAAAAAAAG8CAAAAAAAAAAAAAG8CAAAAAAAAcAIAAAAAAAAAAAAAcAIAAAAAAABxAgAAAAAAAAAAAABxAgAAAAAAAHICAAAAAAAAAAAAAHICAAAAAAAAcwIAAAAAAAAAAAAAcwIAAAAAAAB0AgAAAAAAAAAAAAB0AgAAAAAAAHUCAAAAAAAAAAAAAHUCAAAAAAAAdgIAAAAAAAAAAAAAdgIAAAAAAAB3AgAAAAAAAAAAAAB2AgAAAAAAAHYCAAAAAAAAAQAAAGV1AgAAAAAAAHUCAAAAAAAAAQAAAGh1AgAAAAAAAHkCAAAAAAAAAAAAAHkCAAAAAAAAegIAAAAAAAAAAAAAegIAAAAAAAB7AgAAAAAAAAAAAAB7AgAAAAAAAHwCAAAAAAAAAAAAAHwCAAAAAAAAfQIAAAAAAAAAAAAAfAIAAAAAAAB8AgAAAAAAAAEAAABlewIAAAAAAAB7AgAAAAAAAAEAAABuewIAAAAAAAB/AgAAAAAAAAAAAAB/AgAAAAAAAIACAAAAAAAAAAAAAIACAAAAAAAAgQIAAAAAAAAAAAAAgQIAAAAAAACFAgAAAAAAAAAAAACFAgAAAAAAAIYCAAAAAAAAAAAAAIYCAAAAAAAAhwIAAAAAAAAAAAAAhwIAAAAAAACIAgAAAAAAAAAAAACIAgAAAAAAAIkCAAAAAAAAAAAAAIkCAAAAAAAAigIAAAAAAAAAAAAAigIAAAAAAACLAgAAAAAAAAAAAACLAgAAAAAAAI0CAAAAAAAAAAAAAIwCAAAAAAAAjQIAAAAAAAAAAAAAjQIAAAAAAACOAgAAAAAAAAAAAACOAgAAAAAAAI8CAAAAAAAAAAAAAI4CAAAAAAAAjgIAAAAAAAABAAAAcowCAAAAAAAAjAIAAAAAAAACAAAAY3WMAgAAAAAAAJACAAAAAAAAAAAAAJACAAAAAAAAkQIAAAAAAAAAAAAAkQIAAAAAAACSAgAAAAAAAAAAAACSAgAAAAAAAJMCAAAAAAAAAAAAAJMCAAAAAAAAlAIAAAAAAAAAAAAAlAIAAAAAAACVAgAAAAAAAAAAAACVAgAAAAAAAJYCAAAAAAAAAAAAAJYCAAAAAAAAlwIAAAAAAAAAAAAAlwIAAAAAAACYAgAAAAAAAAAAAACXAgAAAAAAAJcCAAAAAAAAAQAAAGyWAgAAAAAAAJYCAAAAAAAAAQAAAGyVAgAAAAAAAJUCAAAAAAAAAQAAAHWUAgAAAAAAAJQCAAAAAAAAAQAAAG6UAgAAAAAAAJsCAAAAAAAAAAAAAJwCAAAAAAAAnQIAAAAAAAAAAAAAnQIAAAAAAACfAgAAAAAAAAAAAACeAgAAAAAAAJ8CAAAAAAAAAAAAAJ8CAAAAAAAAowIAAAAAAAAAAAAAowIAAAAAAACkAgAAAAAAAAAAAACkAgAAAAAAAKgCAAAAAAAAAAAAAJ8CAAAAAAAAnwIAAAAAAAAEAAAAICAgIJ8CAAAAAAAApQIAAAAAAAAAAAAApQIAAAAAAACmAgAAAAAAAAAAAACmAgAAAAAAAKcCAAAAAAAAAAAAAKYCAAAAAAAApgIAAAAAAAABAAAAZaUCAAAAAAAApQIAAAAAAAABAAAAbqUCAAAAAAAAqQIAAAAAAAAAAAAAqQIAAAAAAACqAgAAAAAAAAAAAACqAgAAAAAAAKsCAAAAAAAAAAAAAKsCAAAAAAAArAIAAAAAAAAAAAAArAIAAAAAAACtAgAAAAAAAAAAAACtAgAAAAAAAK4CAAAAAAAAAAAAAK0CAAAAAAAArQIAAAAAAAABAAAAdawCAAAAAAAArAIAAAAAAAABAAAAY6wCAAAAAAAAsAIAAAAAAAAAAAAAsAIAAAAAAACxAgAAAAAAAAAAAACxAgAAAAAAALICAAAAAAAAAAAAALICAAAAAAAAswIAAAAAAAAAAAAAswIAAAAAAAC0AgAAAAAAAAAAAACzAgAAAAAAALMCAAAAAAAAAQAAAGWyAgAAAAAAALICAAAAAAAAAQAAAG6yAgAAAAAAALYCAAAAAAAAAAAAALYCAAAAAAAAtwIAAAAAAAAAAAAAtwIAAAAAAAC4AgAAAAAAAAAAAAC4AgAAAAAAAL4CAAAAAAAAAAAAAL4CAAAAAAAAvwIAAAAAAAAAAAAAvwIAAAAAAADAAgAAAAAAAAAAAADAAgAAAAAAAMECAAAAAAAAAAAAAMECAAAAAAAAwgIAAAAAAAAAAAAAwgIAAAAAAADDAgAAAAAAAAAAAADDAgAAAAAAAMQCAAAAAAAAAAAAAMQCAAAAAAAAxQIAAAAAAAAAAAAAxQIAAAAAAADGAgAAAAAAAAAAAADFAgAAAAAAAMUCAAAAAAAAAQAAAGXEAgAAAAAAAMQCAAAAAAAAAQAAAG7EAgAAAAAAAMgCAAAAAAAAAAAAAMgCAAAAAAAAyQIAAAAAAAAAAAAAyQIAAAAAAADKAgAAAAAAAAAAAADKAgAAAAAAAMsCAAAAAAAAAAAAAMsCAAAAAAAAzAIAAAAAAAAAAAAAzAIAAAAAAADNAgAAAAAAAAAAAADNAgAAAAAAAM4CAAAAAAAAAAAAAM0CAAAAAAAAzQIAAAAAAAABAAAAZcwCAAAAAAAAzAIAAAAAAAABAAAAcssCAAAAAAAAywIAAAAAAAABAAAAcMsCAAAAAAAAzwIAAAAAAAAAAAAAzwIAAAAAAADQAgAAAAAAAAAAAADQAgAAAAAAANECAAAAAAAAAAAAANECAAAAAAAA1wIAAAAAAAAAAAAA1wIAAAAAAADYAgAAAAAAAAAAAADYAgAAAAAAANkCAAAAAAAAAAAAANkCAAAAAAAA2gIAAAAAAAAAAAAA2QIAAAAAAADZAgAAAAAAAAEAAABl2AIAAAAAAADYAgAAAAAAAAEAAABy1wIAAAAAAADXAgAAAAAAAAEAAABw1wIAAAAAAADbAgAAAAAAAAAAAADbAgAAAAAAANwCAAAAAAAAAAAAANwCAAAAAAAA3QIAAAAAAAAAAAAA3AIAAAAAAADcAgAAAAAAAAEAAAAg3AIAAAAAAADdAgAAAAAAAAAAAADdAgAAAAAAAN4CAAAAAAAAAAAAAN4CAAAAAAAA3wIAAAAAAAAAAAAA3wIAAAAAAADgAgAAAAAAAAAAAADgAgAAAAAAAOECAAAAAAAAAAAAAOACAAAAAAAA4AIAAAAAAAABAAAAct8CAAAAAAAA3wIAAAAAAAABAAAAdd4CAAAAAAAA3gIAAAAAAAABAAAAY94CAAAAAAAA4gIAAAAAAAAAAAAA4gIAAAAAAADjAgAAAAAAAAAAAADjAgAAAAAAAOQCAAAAAAAAAAAAAOQCAAAAAAAA6gIAAAAAAAAAAAAA6gIAAAAAAADrAgAAAAAAAAAAAADrAgAAAAAAAOwCAAAAAAAAAAAAAOsCAAAAAAAA6wIAAAAAAAABAAAAdeoCAAAAAAAA6gIAAAAAAAABAAAAY+oCAAAAAAAA7gIAAAAAAAAAAAAA7gIAAAAAAADvAgAAAAAAAAAAAADvAgAAAAAAAPACAAAAAAAAAAAAAPACAAAAAAAA8QIAAAAAAAAAAAAA8QIAAAAAAADyAgAAAAAAAAAAAADyAgAAAAAAAPMCAAAAAAAAAAAAAPICAAAAAAAA8gIAAAAAAAABAAAAZfECAAAAAAAA8QIAAAAAAAABAAAAbvECAAAAAAAA9QIAAAAAAAAAAAAA9QIAAAAAAAD2AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAIAAAAAAAAkAgAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					179,
+					277,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAGACAAAAAAAAYAIAAAAAAAAhAAAAICAgIExpc3ROb2RlICpuZXh0ID0gaGVhZC0+bmV4dDsK",
+					"AQAAAAAAAAABAAAAcQIAAAAAAABxAgAAAAAAAAAAAAAAYGdA"
+				],
+				[
+					287,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "lis"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EAAAAIQCAAAAAAAAhQIAAAAAAAAAAAAAhQIAAAAAAACGAgAAAAAAAAAAAACGAgAAAAAAAIcCAAAAAAAAAAAAAIYCAAAAAAAAhgIAAAAAAAABAAAAc4UCAAAAAAAAhQIAAAAAAAABAAAAaYQCAAAAAAAAhAIAAAAAAAABAAAAbIQCAAAAAAAAhQIAAAAAAAAAAAAAhQIAAAAAAACGAgAAAAAAAAAAAACGAgAAAAAAAIcCAAAAAAAAAAAAAIcCAAAAAAAAiAIAAAAAAAAAAAAAiAIAAAAAAACJAgAAAAAAAAAAAACJAgAAAAAAAIoCAAAAAAAAAAAAAIoCAAAAAAAAiwIAAAAAAAAAAAAAiwIAAAAAAACMAgAAAAAAAAAAAACMAgAAAAAAAI0CAAAAAAAAAAAAAI0CAAAAAAAAjgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAIAAAAAAACEAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					295,
 					1,
 					"sequence",
 					{
@@ -1171,7 +2762,35 @@
 							[
 								"insert",
 								{
-									"characters": " pop_stack;"
+									"characters": "\nreturn"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " pre"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":2,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										97,
+										292,
+										1
+									],
+									"trigger": "prev"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
 								}
 							],
 							[
@@ -1180,82 +2799,758 @@
 							]
 						]
 					},
-					"CwAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA9QAAAAAAAAD2AAAAAAAAAAAAAAD2AAAAAAAAAPcAAAAAAAAAAAAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA/gAAAAAAAAD/AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+					"EQAAAOUCAAAAAAAA5gIAAAAAAAAAAAAA5gIAAAAAAADqAgAAAAAAAAAAAADqAgAAAAAAAOsCAAAAAAAAAAAAAOsCAAAAAAAA7AIAAAAAAAAAAAAA7AIAAAAAAADtAgAAAAAAAAAAAADtAgAAAAAAAO4CAAAAAAAAAAAAAO4CAAAAAAAA7wIAAAAAAAAAAAAA7wIAAAAAAADwAgAAAAAAAAAAAADwAgAAAAAAAPECAAAAAAAAAAAAAPECAAAAAAAA8gIAAAAAAAAAAAAA8gIAAAAAAADzAgAAAAAAAAAAAADzAgAAAAAAAPQCAAAAAAAAAAAAAPMCAAAAAAAA8wIAAAAAAAABAAAAZfICAAAAAAAA8gIAAAAAAAABAAAAcvECAAAAAAAA8QIAAAAAAAABAAAAcPECAAAAAAAA9QIAAAAAAAAAAAAA9QIAAAAAAAD2AgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AIAAAAAAADkAgAAAAAAAAAAAAAAAGZA"
 				],
 				[
-					186,
+					361,
 					1,
-					"reindent",
-					null,
-					"AQAAAFsAAAAAAAAAXQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					187,
-					1,
-					"insert",
+					"sequence",
 					{
-						"characters": "\t"
+						"commands":
+						[
+							[
+								"reindent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "\t"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "List"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										101,
+										302,
+										2
+									],
+									"trigger": "ListNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " *"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "other"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "re"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":3,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										106,
+										307,
+										1
+									],
+									"trigger": "reverse"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "midd"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										109,
+										310,
+										3
+									],
+									"trigger": "middleNode"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										111,
+										312,
+										3
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"next_field",
+								null
+							],
+							[
+								"next_field",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "while"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "hea"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										119,
+										320,
+										2
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " !="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " nul"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":35,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										122,
+										323,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " &&"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " oth"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										125,
+										326,
+										1
+									],
+									"trigger": "other"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " !="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " n"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":7,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										128,
+										329,
+										1
+									],
+									"trigger": "nullptr"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "{$0}"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "if"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										137,
+										338,
+										2
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": true,
+									"query_change_id":
+									[
+										139,
+										340,
+										2
+									],
+									"trigger": "val"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " =="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "!+"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " o"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										147,
+										349,
+										1
+									],
+									"trigger": "other"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->v"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										149,
+										351,
+										2
+									],
+									"trigger": "val"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ret"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":2,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										152,
+										354,
+										2
+									],
+									"trigger": "return"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "fa"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										156,
+										358,
+										1
+									],
+									"trigger": "false"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										157,
+										359,
+										3
+									],
+									"trigger": "false"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
 					},
-					"AQAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
-					"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"
+					"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"
 				],
 				[
-					188,
+					379,
 					1,
-					"left_delete",
-					null,
-					"AQAAAF0AAAAAAAAAXQAAAAAAAAABAAAACQ",
-					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					189,
-					1,
-					"insert",
+					"sequence",
 					{
-						"characters": "push"
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nhe"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										100,
+										363,
+										4
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " he"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										103,
+										366,
+										1
+									],
+									"trigger": "head"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										105,
+										368,
+										3
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\not"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										108,
+										371,
+										3
+									],
+									"trigger": "other"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ot"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										111,
+										374,
+										1
+									],
+									"trigger": "other"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "->ne"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"clangd\"}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										113,
+										376,
+										2
+									],
+									"trigger": "next"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ";"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
 					},
-					"BAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+					"LQAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADyAAAAAAAAAAAAAADyAAAAAAAAAPMAAAAAAAAAAAAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA8gAAAAAAAADyAAAAAAAAAAIAAABoZfIAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAD3AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAPsAAAAAAAAAAAAAAPoAAAAAAAAA+gAAAAAAAAABAAAAZfkAAAAAAAAA+QAAAAAAAAABAAAAaPkAAAAAAAAA/QAAAAAAAAAAAAAA/QAAAAAAAAD+AAAAAAAAAAAAAAD+AAAAAAAAAP8AAAAAAAAAAAAAAP8AAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAABAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAQAAAGX/AAAAAAAAAP8AAAAAAAAAAQAAAG7/AAAAAAAAAAMBAAAAAAAAAAAAAAMBAAAAAAAABAEAAAAAAAAAAAAABAEAAAAAAAAFAQAAAAAAAAAAAAAFAQAAAAAAAAsBAAAAAAAAAAAAAAsBAAAAAAAADAEAAAAAAAAAAAAADAEAAAAAAAANAQAAAAAAAAAAAAAMAQAAAAAAAAwBAAAAAAAAAQAAAHQLAQAAAAAAAAsBAAAAAAAAAQAAAG8LAQAAAAAAABABAAAAAAAAAAAAABABAAAAAAAAEQEAAAAAAAAAAAAAEQEAAAAAAAASAQAAAAAAAAAAAAASAQAAAAAAABMBAAAAAAAAAAAAABMBAAAAAAAAFAEAAAAAAAAAAAAAFAEAAAAAAAAVAQAAAAAAAAAAAAAUAQAAAAAAABQBAAAAAAAAAQAAAHQTAQAAAAAAABMBAAAAAAAAAQAAAG8TAQAAAAAAABgBAAAAAAAAAAAAABgBAAAAAAAAGQEAAAAAAAAAAAAAGQEAAAAAAAAaAQAAAAAAAAAAAAAaAQAAAAAAABsBAAAAAAAAAAAAABsBAAAAAAAAHAEAAAAAAAAAAAAAGwEAAAAAAAAbAQAAAAAAAAEAAABlGgEAAAAAAAAaAQAAAAAAAAEAAABuGgEAAAAAAAAeAQAAAAAAAAAAAAAeAQAAAAAAAB8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QAAAAAAAADpAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					190,
-					4,
-					"left_delete",
-					null,
-					"BAAAAGAAAAAAAAAAYAAAAAAAAAABAAAAaF8AAAAAAAAAXwAAAAAAAAABAAAAc14AAAAAAAAAXgAAAAAAAAABAAAAdV0AAAAAAAAAXQAAAAAAAAABAAAAcA",
-					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					191,
+					384,
 					1,
-					"insert",
+					"sequence",
 					{
-						"characters": "this->pu"
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nreturn"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " true;"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
 					},
-					"CAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					192,
-					1,
-					"insert",
-					{
-						"characters": "s"
-					},
-					"AQAAAGUAAAAAAAAAZgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+					"DgAAACUBAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAAqAQAAAAAAAAAAAAAqAQAAAAAAACsBAAAAAAAAAAAAACsBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAtAQAAAAAAAAAAAAAtAQAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAAwAQAAAAAAAAAAAAAwAQAAAAAAADEBAAAAAAAAAAAAADEBAAAAAAAAMgEAAAAAAAAAAAAAMgEAAAAAAAAzAQAAAAAAAAAAAAAzAQAAAAAAADQBAAAAAAAAAAAAADQBAAAAAAAANQEAAAAAAAAAAAAANQEAAAAAAAA2AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAkAQAAAAAAAAAAAAAAMHFA"
 				]
 			]
-		},
-		{
-			"contents": "",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -1274,20 +3569,56 @@
 				":w - Save"
 			],
 			[
-				"termina",
-				"Tint: New Terminal in Tab"
+				"deb",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"code le",
+				"LSP: Code Action…"
+			],
+			[
+				"debu",
+				"Debugger: Start (no debug)"
+			],
+			[
+				"deb qu",
+				"Debugger: Quit"
+			],
+			[
+				"breakpo",
+				"Debugger: Add Function Breakpoint"
+			],
+			[
+				"debg",
+				"Debugger: Quit"
 			],
 			[
 				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
+				"Debugger: Install Adapters"
 			],
 			[
 				"theme",
 				"UI: Select Color Scheme"
+			],
+			[
+				"server",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"termia",
+				"Terminal: Open"
+			],
+			[
+				"termina",
+				"Tint: New Terminal in Tab"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
 			]
 		],
 		"width": 0.0
@@ -1310,15 +3641,38 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aneeshd/Projects/comp-code"
+		"/home/aneeshd/Projects/comp-code",
+		"/home/aneeshd/Projects/comp-code/grind75"
 	],
 	"file_history":
 	[
-		"/home/aneeshd/Projects/comp-code/comp-code.sublime-project"
+		"/home/aneeshd/Projects/comp-code/grind75/SingleNumber.java",
+		"/home/aneeshd/Projects/comp-code/grind75/LongestCommonPrefix.java",
+		"/home/aneeshd/Projects/comp-code/grind75/NumberOfOneBits.java",
+		"/home/aneeshd/Projects/comp-code/grind75/same_tree.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/CountingBits.java",
+		"/home/aneeshd/Projects/comp-code/grind75/BackspaceCompare.java",
+		"/home/aneeshd/Projects/comp-code/comp-code.sublime-project",
+		"/home/aneeshd/Projects/comp-code/grind75/RomanToInteger.java",
+		"/home/aneeshd/Projects/comp-code/grind75/meeting_rooms.py",
+		"/home/aneeshd/Projects/comp-code/grind75/contains_duplicate.py",
+		"/home/aneeshd/Projects/comp-code/grind75/max_depth_binary_tree.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/middle_linked_list.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/diameter_binary_tree.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/add_binary.py",
+		"/home/aneeshd/Projects/comp-code/grind75/majority_element.py",
+		"/home/aneeshd/Projects/comp-code/grind75/reverse_linked_list.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/longest_palindrome.py",
+		"/home/aneeshd/Projects/comp-code/grind75/climbing_stairs.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/ransom_note.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/queue_using_stacks.cpp",
+		"/home/aneeshd/Projects/comp-code/grind75/first_bad_version.cpp",
+		"/home/aneeshd/.config/sublime-text/Packages/Terminal/Terminal.sublime-settings",
+		"/home/aneeshd/.config/sublime-text/Packages/User/Terminal.sublime-settings"
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 53.0
 	},
 	"find_in_files":
 	{
@@ -1332,6 +3686,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"E",
+			"Solution",
 			" "
 		],
 		"highlight": true,
@@ -1356,19 +3712,20 @@
 			[
 				{
 					"buffer": 0,
-					"file": "grind75/queue_using_stacks.cpp",
+					"file": "grind75/palindrome_linked_list.cpp",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 269,
+						"buffer_size": 987,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								102,
-								102
+								544,
+								544
 							]
 						],
 						"settings":
@@ -1389,7 +3746,6 @@
 									"server": "clangd"
 								}
 							],
-							"auto_name": "",
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1397,8 +3753,8 @@
 								{
 									"1":
 									[
-										104,
-										105
+										604,
+										605
 									]
 								},
 								"icon":
@@ -1413,8 +3769,8 @@
 								{
 									"1":
 									[
-										89,
-										90
+										542,
+										543
 									]
 								},
 								"unmatched":
@@ -1423,31 +3779,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1458,11 +3789,31 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
@@ -1473,50 +3824,22 @@
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content"
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"lsp_active": true,
 							"lsp_hover_provider_count": 1,
-							"lsp_uri": "file:///home/aneeshd/Projects/comp-code/grind75/queue_using_stacks.cpp",
+							"lsp_uri": "file:///home/aneeshd/Projects/comp-code/grind75/palindrome_linked_list.cpp",
 							"show_definitions": false,
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 2
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"default_dir": "/home/aneeshd/Projects/comp-code/grind75",
-							"lsp_uri": "buffer://sublime/245",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1531,7 +3854,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 37.0
 	},
 	"input":
 	{
@@ -1560,6 +3883,14 @@
 		]
 	},
 	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 346.0
+	},
+	"output.Debugger Console":
+	{
+		"height": 346.0
+	},
 	"output.LSP Log Panel":
 	{
 		"height": 0.0
@@ -1580,7 +3911,7 @@
 	"project": "comp-code.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1618,7 +3949,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 188.0,
+	"side_bar_width": 350.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
